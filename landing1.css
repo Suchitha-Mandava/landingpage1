@@ -1,0 +1,64 @@
+body{
+    background-image: url("landing page1.jpeg");
+background-repeat: no-repeat;
+    background-size: cover;
+}
+ .top{
+    max-width: 1400px;
+    margin: auto;
+ }
+ ul{
+    list-style-type: none;
+    float: right;
+    margin-top: 25px;
+ }
+ ul li{
+    display: inline-block;
+    border: 1px solid transparent;
+ }
+ ul li a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+ }
+ ul li a:hover{
+    background-color:white;
+    color: black;
+ }
+ h2{
+    margin-top: 25px;
+ }
+ .text{
+    margin-top: 250px;
+    margin-left: 530px;
+ }
+ h1{
+    font-weight: bold;
+ }
+ #b1{
+    border: 1px solid white;
+    text-decoration: none;
+    padding: 5px;
+    color: white;
+    font-weight: bold;
+    border-radius: 15px;
+
+}
+#b2{
+    border: 1px solid white;
+    text-decoration: none;
+    padding: 5px;
+    color: white;
+    font-weight: bold;
+    border-radius: 15px;
+
+}
+#b1:hover{
+background-color: white;
+color: black;
+}
+#b2:hover{
+    background-color: white;
+    color: black;
+    }
